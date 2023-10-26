@@ -13,3 +13,6 @@ A simple autoclicker made in Flutter with nice features!
 
 ## Screenshots
 ![image](https://github.com/checkm4ted/FlutterAutoClicker/assets/146487129/9b4f9df3-a4c1-4783-8a64-565e9f7e351e)
+
+## Known Issues:
+- None yet.
