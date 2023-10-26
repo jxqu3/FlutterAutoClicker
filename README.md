@@ -1,3 +1,3 @@
-# autoclicker
+# AutoClicker
 
-A new Flutter project.
+A simple autoclicker made in Flutter with nice features!
